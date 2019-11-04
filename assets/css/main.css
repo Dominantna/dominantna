@@ -1055,3 +1055,13 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+
+ul {
+	text-decoration: none;
+	list-style: none;
+}
+
+.text-centered {
+	text-align: center;
+	margin-right: 20px;
+}
